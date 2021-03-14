@@ -332,6 +332,7 @@ void StartGame(COORD ArraySize)
             Beep(80,5);
         }
     }
+    // a
     return;
 }
 
